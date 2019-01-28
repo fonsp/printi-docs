@@ -17,6 +17,8 @@ How do I **change the printi name**?
 
 > [Open the settings page of your printi mini](/settings).
 
+------
+
 ### Trouble
 
 🚨 What does a **flashing red LED** mean?
@@ -35,15 +37,21 @@ My printi doesn't do anything 😢
 
 > Oh no! Remember that it might take up to five minutes for printi to boot and update. Is the [settings page](/settings) working? Feel free to [contact me](https://github.com/fons-)!
 
+------
+
 ### Misc
 
-Can I protect my printi with a password?
+Can I protect my printi mini with a **password**?
 
 > No, but you should view the name of your printi as its password. Every `printi.me/subdomain` page looks exactly the same, and uploads are handled identically, regardless of whether it connects to a printi or not. 
 
 Are images sent to a printi mini **stored on a server**?
 
 > Never on a hard drive, and (processed) photos are only stored in memory until they are printed, or after 7 days, whichever comes first. 
+
+What happens to images sent to `printi.me`?
+
+> That's secret!
 
 Where can I buy more **printi minis**?!
 
