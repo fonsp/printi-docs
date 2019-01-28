@@ -1,5 +1,7 @@
 # printi mini help page
-🐶 don't panic!
+![two dogs](img/doggoSmall.jpg)
+
+don't panic!
 
 ## FAQ:
 
