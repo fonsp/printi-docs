@@ -45,11 +45,11 @@ My printi doesn't do anything 😢
 
 Can I protect my printi mini with a **password**?
 
-> No, but you should view the name of your printi as its password. Every `printi.me/subdomain` page looks exactly the same, and uploads are handled identically, regardless of whether it connects to a printi or not. 
+> No, but you can make your printi nearly impossible to find by choosing a complex name. Every `printi.me/subdomain` page looks exactly the same, and uploads are handled identically, regardless of whether it connects to a printi or not. 
 
 Are images sent to a printi mini **stored on a server**?
 
-> Never on a hard drive, and (processed) photos are only stored in memory until they are printed, or after 7 days, whichever comes first. 
+> Never on a hard drive; (processed) photos are only stored in memory, and will be deleted when printed, or after 7 days, whichever comes first. 
 
 What happens to images sent to `printi.me`?
 
