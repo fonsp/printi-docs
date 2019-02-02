@@ -25,7 +25,7 @@ How do I **change the printi name**?
 
 🚨 What does a **flashing red LED** mean?
 
-> You ran out of paper! Switch off your printi, lift the lid, and put in a new 58mm thermal paper roll (from an office supply store). Voilà!
+> You ran out of paper! Switch off your printi, lift the lid, and put in a new thermal paper roll: **width: 57mm, diameter: ≤60mm**. (They are sold at office supply stores.) Voilà!
 
 My printi only prints blank paper!
 
