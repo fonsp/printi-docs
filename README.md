@@ -23,6 +23,8 @@ How do I **change the printi name**?
 
 ### Trouble
 
+> In case of trouble, **try turning your printi off and on**.
+
 🚨 What does a **flashing red LED** mean?
 
 > You ran out of paper! Switch off your printi, lift the lid, and put in a new thermal paper roll: **width: 57mm, diameter: ≤60mm**. (They are sold at office supply stores.) Voilà!
@@ -37,7 +39,7 @@ My printi is **not receiving pictures**!
 
 My printi doesn't do anything 😢
 
-> Oh no! Remember that it might take up to five minutes for printi to boot and update. Is the [settings page](/settings) working? Feel free to [contact me](https://github.com/fons-)!
+> Oh no! Remember that it might take up to five minutes for printi to boot and update. Is the [settings page](/settings) working? Feel free to [contact me](https://github.com/fonsp)!
 
 ------
 
@@ -57,4 +59,4 @@ What happens to images sent to `printi.me`?
 
 Where can I buy more **printi minis**?!
 
-> [Contact me](https://github.com/fons-)!
+> [Contact me](https://github.com/fonsp)!
