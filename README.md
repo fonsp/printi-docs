@@ -60,3 +60,18 @@ What happens to images sent to `printi.me`?
 Where can I buy more **printi minis**?!
 
 > [Contact me](https://github.com/fonsp)!
+
+Can I use the **USB port** and **ethernet port** at the back of my printi mini?
+
+> The USB port should _not_ be used: the printer already has an internal USB connection. I am not yet sure about the ethernet port, but do send me an email when you figure it out!
+
+How do I hack my printi mini?
+
+> The SSH server of the embedded Onion Omega 2+ is likely disabled, but you can still change your software by opening your printi mini and taking out the Omega. You can access the terminal over the serial pins (or using the Onion Omega Dock). Please refer to the [client setup instructions](https://github.com/fonsp/printi/wiki/Installing-the-client) to see what commands are run at boot. For example, you could clear the /root/printi directory, and replace it with a clone of _your own fork_ of [the GitHub repository](https://github.com/fonsp/printi). It will then pull the latest version of your fork at boot, instead of the official client.
+
+I don't want a printi mini anymore!
+
+> Oh no! Bring your printi mini to any electronics store to **dispose of it properly**. If you want, you can open the printi mini (there are four screws, two of which are hidden beneath the rubber pads) and take out the Onion Omega 2+ (and leave the wires). After reassembly, you now have a regular receipt printer and a super cool computer.
+
+_- [fons](https://github.com/fonsp)_
+
