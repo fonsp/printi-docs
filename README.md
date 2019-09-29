@@ -7,6 +7,10 @@ don't panic!
 
 ### Setup
 
+I plugged in my brand new printi mini but nothing is happening!
+
+> It will take up to **5 minutes** for the printi mini to start. When it does, it will print the printi logo and instructions for setting up Wi-Fi. Hold tight!
+
 How do I **connect my printi to a Wi-Fi network**?
 
 > [Open the settings page of your printi mini](/settings).
