@@ -39,7 +39,11 @@ My printi only prints blank paper!
 
 My printi is **not receiving pictures**!
 
-> Check that you are sending your pictures to the right address. For example, if your printer name is `apples`, you should go to `printi.me/apples` to send pictures. You can view or change your printer name using the [settings page](/settings). You could also try using a different printer name.
+> Check that you are sending your pictures to the right address. For example, if your printer name is `apples`, you should go to `printi.me/apples` to send pictures (case sensitive). You can view or change your printer name using the [settings page](/settings). You could also try using a different printer name.
+
+My printi keeps telling me that it disconnected and connected again. 📜📜
+
+> This means that the Wi-Fi connection is unstable. (To be the world's fastest photo printer, your printi wants to be connected at all times.) Try moving the printi closer to your Wi-Fi router, or search online for ways to make your Wi-Fi network more stable.
 
 My printi doesn't do anything 😢
 
