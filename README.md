@@ -65,9 +65,9 @@ What happens to images sent to `printi.me`?
 
 > That's secret!
 
-Where can I buy more **printi minis**?!
+Where can I get more **printi minis**?!
 
-> [Contact me](https://github.com/fonsp)!
+> I make more of them sometimes! [Contact me](https://github.com/fonsp) if you are interested. You can also make a printi yourself, instructions can be found on the [printi wiki](https://github.com/fonsp/printi/wiki/).
 
 Can I use the **USB port** and **ethernet port** at the back of my printi mini?
 
