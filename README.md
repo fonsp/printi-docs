@@ -17,7 +17,9 @@ How do I **connect my printi to a Wi-Fi network**?
 
 Can I **update** the firmware of my printi mini?
 
-> Yes! The firmware will be updated automatically when the printi _boots_, so restart (switch off/on) your printi every now and then to get the latest features!
+> Yes! The firmware will be updated automatically when the printi _boots_, so restart (switch off/on) your printi every now and then to get the latest features! 
+> 
+> _It could be that your printi mini has **two** power cables: one for the printer and one for the computer. Be sure to restart **both** devices. (Turn the printer on first.)_ 🔌🔌
 
 How do I **change the printi name**?
 
@@ -27,7 +29,7 @@ How do I **change the printi name**?
 
 ### Trouble
 
-> In case of trouble, **try turning your printi off and on**.
+> In case of trouble, [**try turning your printi off and on**](https://help.printi.me/#setup).
 
 🚨 What does a **flashing red LED** mean?
 
@@ -39,7 +41,7 @@ My printi only prints blank paper!
 
 My printi is **not receiving pictures**!
 
-> Check that you are sending your pictures to the right address. For example, if your printer name is `apples`, you should go to `printi.me/apples` to send pictures (case sensitive). You can view or change your printer name using the [settings page](/settings). You could also try using a different printer name.
+> Check that you are sending your pictures to the right address. For example, if your printer name is `apples`, you should go to `printi.me/apples` to send pictures (case sensitive). You can view or change your printer name using the [settings page](/settings). You could also try using another image, someone else's phone or a different printer name.
 
 My printi keeps telling me that it disconnected and connected again. 📜📜
 
